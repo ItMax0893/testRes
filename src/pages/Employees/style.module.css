@@ -1,0 +1,11 @@
+.employeesBlock{
+    padding: 20px;
+}
+.employeeBlock{
+    display: flex;
+    gap: 10px;
+    margin: 10px;
+}
+.employeeBlock button{
+    cursor: pointer;
+}

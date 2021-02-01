@@ -1,0 +1,16 @@
+.navBlock{
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+    height: 40px;
+    padding: 10px;
+    background-color: rgb(89, 0, 255);
+}
+.navLink{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+.activeNav{
+    color: rgb(187, 178, 50);
+}
